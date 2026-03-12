@@ -1,0 +1,10 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.backontrack.monitor
+productName: BackOnTrack Monitor
+win:
+  target: nsis
+  icon: logo.ico
+files: []
+electronVersion: 40.8.0
